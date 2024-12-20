@@ -1,0 +1,15 @@
+.background-fade {
+    background-color: rgba(21, 63, 118, 0.7);
+}
+
+h1 {
+    text-shadow: 3px 3px 5px rgba(4, 68, 18, 0.8);
+}
+
+button {
+    background-color: rgba(30,100,150,1);
+}
+
+button:hover {
+    background-color: rgba(5,200,50,1);
+}
